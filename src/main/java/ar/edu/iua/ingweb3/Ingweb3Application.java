@@ -10,5 +10,7 @@ public class Ingweb3Application {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(Ingweb3Application.class, args);
+		
+		
 	}
 }
